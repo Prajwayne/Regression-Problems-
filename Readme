@@ -1,0 +1,1 @@
+This dataset consists data collected from a Combined Cycle Power Plant over 6 years (2006-2011). Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (PE) of the plant. Your task is to predict the net hourly energy of the plant (the column PE)
